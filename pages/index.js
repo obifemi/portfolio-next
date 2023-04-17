@@ -30,9 +30,9 @@ export default function Home() {
           <p>Freelancer providing you solutions for your webdev problems, wishes, requests... Ask me from research to code, let me help you realize it!</p>
         </div>
         <div>
-        <AiFillTwitterCircle />
-        <AiFillLinkedin />
-        <AiFillYoutube />
+        <AiFillTwitterCircle/>
+        <AiFillLinkedin/>
+        <AiFillYoutube/>
         </div>
       </section>
     </main>
