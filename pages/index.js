@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import Head from 'next/head'
 import {BsFillMoonStarsFill} from 'react-icons/bs'
+import {AiFillTwitterCircle, AiFillLinkedin, AiFillYoutube} from 'react-icons/ai'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -29,7 +30,9 @@ export default function Home() {
           <p>Freelancer providing you solutions for your webdev problems, wishes, requests... Ask me from research to code, let me help you realize it!</p>
         </div>
         <div>
-          
+        <AiFillTwitterCircle />
+        <AiFillLinkedin />
+        <AiFillYoutube />
         </div>
       </section>
     </main>
