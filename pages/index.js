@@ -35,8 +35,8 @@ export default function Home() {
               </li>
             </ul>
           </nav>
-          <div>
-            <h2>Ali Mert Inal</h2>
+          <div className="text-center p-10">
+            <h2 className="text-5xl py-2 text-teal-600 font-medium">Ali Mert Inal</h2>
             <h3>Frontend Developer and UX Designer/Researcher</h3>
             <p>
               Freelancer providing you solutions for your webdev problems,
@@ -48,6 +48,9 @@ export default function Home() {
             <AiFillTwitterCircle />
             <AiFillLinkedin />
             <AiFillYoutube />
+          </div>
+          <div>
+
           </div>
         </section>
       </main>
