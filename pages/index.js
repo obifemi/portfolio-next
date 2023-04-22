@@ -37,14 +37,14 @@ export default function Home() {
           </nav>
           <div className="text-center p-10">
             <h2 className="text-5xl py-2 text-teal-600 font-medium">Ali Mert Inal</h2>
-            <h3>Frontend Developer and UX Designer/Researcher</h3>
-            <p>
+            <h3 className="text-2xl py-2">Frontend Developer and UX Designer/Researcher</h3>
+            <p className="text-md py-5 leading-8 text-gray-800">
               Freelancer providing you solutions for your webdev problems,
               wishes, requests... Ask me from research to code, let me help you
               realize it!
             </p>
           </div>
-          <div>
+          <div className="text-5xl flex justify-center gap-16 py-3">
             <AiFillTwitterCircle />
             <AiFillLinkedin />
             <AiFillYoutube />
