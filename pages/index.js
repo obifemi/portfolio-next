@@ -41,7 +41,7 @@ export default function Home() {
             <p className="text-md py-5 leading-8 text-gray-800">
               Freelancer providing you solutions for your webdev problems,
               wishes, requests... Ask me from research to code, let me help you
-              realize it!
+              realize it!.
             </p>
           </div>
           <div className="text-5xl flex justify-center gap-16 py-3">
